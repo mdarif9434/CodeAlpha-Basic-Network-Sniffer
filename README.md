@@ -90,9 +90,17 @@ Payload            : Encrypted / Binary Data
 
 ## 📸 Screenshots
 
-Project screenshots are available in the **screenshots/** folder.
+### Output 1
 
----
+![Output 1](screenshots/Screenshot - 01.png)
+
+### Output 2
+
+![Output 2](screenshots/Screenshot - 02.png)
+
+### Output 3
+
+![Output 3](screenshots/Screenshot - 03.png)
 
 ## 📂 Project Structure
 
