@@ -92,15 +92,15 @@ Payload            : Encrypted / Binary Data
 
 ### Output 1
 
-![Output 1](screenshots/Screenshot - 01.png)
+![Output 1](screenshots/output1.png.png)
 
 ### Output 2
 
-![Output 2](screenshots/Screenshot - 02.png)
+![Output 2](screenshots/output2.png.png)
 
 ### Output 3
 
-![Output 3](screenshots/Screenshot - 03.png)
+![Output 3](screenshots/output3.png.png)
 
 ## 📂 Project Structure
 
