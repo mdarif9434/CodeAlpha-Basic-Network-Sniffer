@@ -50,7 +50,7 @@ pip install scapy
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha-Basic-Network-Sniffer.git
+git clone https://github.com/mdarif9434/CodeAlpha-Basic-Network-Sniffer.git
 ```
 
 Go to the project folder:
@@ -128,7 +128,7 @@ University of Global Village (UGV)
 
 CodeAlpha Cyber Security Internship
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/mdarif9434
 
 ---
 
